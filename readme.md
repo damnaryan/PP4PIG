@@ -7,3 +7,4 @@ This is multi player game where every player gets thier turn to roll a dice any 
 ### [ COMPLETED ]
 
 ## Learnings:
+Using lists and operating on lists, accessing certain indexes in a list, storing them into variables, changing values in list. 
